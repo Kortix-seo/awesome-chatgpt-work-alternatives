@@ -81,7 +81,7 @@ kortix init
 kortix ship
 ```
 
-`kortix init` creates `kortix.yaml` with your agents, skills and runtime config. `kortix ship` pushes the repository and brings the system live. To run it yourself, `kortix self-host start` runs the stack on a single Docker Compose host. To compare the open source field in more detail, see the ChatGPT Work Alternative site at [chatgptworkalternative.com](https://chatgptworkalternative.com).
+`kortix init` creates `kortix.yaml` with your agents, skills and runtime config. `kortix ship` pushes the repository and brings the system live. To run it yourself, `kortix self-host start` runs the stack on a single Docker Compose host. To compare the open source field in more detail, see the ChatGPT Work Alternative site at [chatgptworkalternative.com](https://chatgptworkalternative.com), whose ranked page [open-source ChatGPT Work alternatives, compared and ranked](https://chatgptworkalternative.com/chatgpt-work-alternatives) sorts the field by the work each entry finishes.
 
 Kortix is open source: self-host, read and modify the code. Start on the free tier, or use managed cloud from [kortix.com](https://kortix.com).
 
