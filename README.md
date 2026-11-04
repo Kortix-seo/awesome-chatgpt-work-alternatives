@@ -39,7 +39,7 @@ Kortix supplies all five and keeps them as files in a git repository your compan
 
 ### Full company and agent platforms
 
-**Kortix** is the open-source CompanyOS. Agents, skills, memory, connector configuration and triggers are markdown and YAML files in one git repository the company owns, and each session boots its own isolated Linux machine on its own branch. Work reaches the main branch through a change request a person reads as a diff. Kortix is model-agnostic and reaches 3,000+ apps plus any MCP, OpenAPI, GraphQL or HTTP API. Open source, self-hosted or managed cloud. Repository: [Kortix on GitHub](https://github.com/kortix-ai/suna). Site: [kortix.com](https://kortix.com).
+**Kortix** is the open-source CompanyOS. Agents, skills, memory, connector configuration and triggers are markdown and YAML files in one git repository the company owns, and each session boots its own isolated Linux machine on its own branch. Work reaches the main branch through a change request a person reads as a diff. Kortix is model-agnostic and reaches 3,000+ apps plus any MCP, OpenAPI, GraphQL or HTTP API. Open source, self-hosted or managed cloud. Repository: [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS). Site: [kortix.com](https://kortix.com).
 
 **OpenWork** is an open source desktop app for macOS, Windows and Linux where AI agents work on your own files, built on the OpenCode harness. It supports 50+ model providers with your own API keys, or local models through Ollama, and teams can share skills and MCP servers. The desktop app and core are MIT licensed; the OpenWork Den control plane under `ee/` uses the OpenWork EE License. Repository: [different-ai/openwork](https://github.com/different-ai/openwork).
 
